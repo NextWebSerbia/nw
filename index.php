@@ -1,1 +1,1 @@
-<? phoinfo();?>
+<? phpinfo();?>
